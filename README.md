@@ -159,11 +159,6 @@ Backend-разработчик на .NET с опытом более **2 лет**
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjgtll&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjgtll&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
